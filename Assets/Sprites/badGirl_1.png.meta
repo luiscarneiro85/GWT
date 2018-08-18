@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: 39dc5d8a8ce01174a81d8f722ceb87d7
+timeCreated: 1512254983
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badGirl_1_0
+    21300002: badGirl_1_1
+    21300004: badGirl_1_2
+    21300006: badGirl_1_3
+    21300008: badGirl_1_4
+    21300010: badGirl_1_5
+    21300012: badGirl_1_6
+    21300014: badGirl_1_7
+    21300016: badGirl_1_8
+    21300018: badGirl_1_9
+    21300020: badGirl_1_10
+    21300022: badGirl_1_11
+    21300024: badGirl_1_12
+    21300026: badGirl_1_13
+    21300028: badGirl_1_14
+    21300030: badGirl_1_15
+    21300032: badGirl_1_16
+    21300034: badGirl_1_17
+    21300036: badGirl_1_18
+    21300038: badGirl_1_19
+    21300040: badGirl_1_20
+    21300042: badGirl_1_21
+    21300044: badGirl_1_22
+    21300046: badGirl_1_23
+    21300048: badGirl_1_24
+    21300050: badGirl_1_25
+    21300052: badGirl_1_26
+    21300054: badGirl_1_27
+    21300056: badGirl_1_28
+    21300058: badGirl_1_29
+    21300060: badGirl_1_30
+    21300062: badGirl_1_31
+    21300064: badGirl_1_32
+    21300066: badGirl_1_33
+    21300068: badGirl_1_34
+    21300070: badGirl_1_35
+    21300072: badGirl_1_36
+    21300074: badGirl_1_37
+    21300076: badGirl_1_38
+    21300078: badGirl_1_39
+    21300080: badGirl_1_40
+    21300082: badGirl_1_41
+    21300084: badGirl_1_42
+    21300086: badGirl_1_43
+    21300088: badGirl_1_44
+    21300090: badGirl_1_45
+    21300092: badGirl_1_46
+    21300094: badGirl_1_47
+    21300096: badGirl_1_48
+    21300098: badGirl_1_49
+    21300100: badGirl_1_50
+    21300102: badGirl_1_51
+    21300104: badGirl_1_52
+    21300106: badGirl_1_53
+    21300108: badGirl_1_54
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badGirl_1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 481
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 481
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 481
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 481
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 481
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 481
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 402
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 403
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 403
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 403
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 398
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 401
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 401
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 401
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 323
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 323
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 323
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 321
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 321
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_22
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 321
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_23
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 322
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 323
+        width: 51
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 322
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 241
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 241
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 245
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 244
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 242
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 165
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 166
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 161
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_35
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 188
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_36
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 164
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 81
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 81
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_40
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 81
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 81
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_42
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 81
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 81
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_44
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 81
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 81
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_47
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_48
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_49
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_50
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_51
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_52
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_53
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGirl_1_54
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

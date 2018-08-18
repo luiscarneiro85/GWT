@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: e5339614cb40ff64596c00b1243ed0a4
+timeCreated: 1512247451
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: badGuy1_0
+    21300002: badGuy1_1
+    21300004: badGuy1_2
+    21300006: badGuy1_3
+    21300008: badGuy1_4
+    21300010: badGuy1_5
+    21300012: badGuy1_6
+    21300014: badGuy1_7
+    21300016: badGuy1_8
+    21300018: badGuy1_9
+    21300020: badGuy1_10
+    21300022: badGuy1_11
+    21300024: badGuy1_12
+    21300026: badGuy1_13
+    21300028: badGuy1_14
+    21300030: badGuy1_15
+    21300032: badGuy1_16
+    21300034: badGuy1_17
+    21300036: badGuy1_18
+    21300038: badGuy1_19
+    21300040: badGuy1_20
+    21300042: badGuy1_21
+    21300044: badGuy1_22
+    21300046: badGuy1_23
+    21300048: badGuy1_24
+    21300050: badGuy1_25
+    21300052: badGuy1_26
+    21300054: badGuy1_27
+    21300056: badGuy1_28
+    21300058: badGuy1_29
+    21300060: badGuy1_30
+    21300062: badGuy1_31
+    21300064: badGuy1_32
+    21300066: badGuy1_33
+    21300068: badGuy1_34
+    21300070: badGuy1_35
+    21300072: badGuy1_36
+    21300074: badGuy1_37
+    21300076: badGuy1_38
+    21300078: badGuy1_39
+    21300080: badGuy1_40
+    21300082: badGuy1_41
+    21300084: badGuy1_42
+    21300086: badGuy1_43
+    21300088: badGuy1_44
+    21300090: badGuy1_45
+    21300092: badGuy1_46
+    21300094: badGuy1_47
+    21300096: badGuy1_48
+    21300098: badGuy1_49
+    21300100: badGuy1_50
+    21300102: badGuy1_51
+    21300104: badGuy1_52
+    21300106: badGuy1_53
+    21300108: badGuy1_54
+    21300110: badGuy1_55
+    21300112: badGuy1_56
+    21300114: badGuy1_57
+    21300116: badGuy1_58
+    21300118: badGuy1_59
+    21300120: badGuy1_60
+    21300122: badGuy1_61
+    21300124: badGuy1_62
+    21300126: badGuy1_63
+    21300128: badGuy1_64
+    21300130: badGuy1_65
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: badGuy1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 481
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 481
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 481
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 481
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 481
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 481
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 481
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 481
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 481
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 481
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 401
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 401
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 401
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 401
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 402
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 408
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 401
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_18
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 401
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 321
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 321
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 322
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 321
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 321
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 321
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 321
+        width: 42
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_26
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 321
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 321
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_28
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 321
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 247
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 243
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 258
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 250
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 241
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 245
+        width: 79
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 241
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_36
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 241
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_37
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 241
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_38
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 241
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 162
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 174
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 175
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 161
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_43
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 162
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 161
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_45
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 161
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_46
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 161
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 161
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_48
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 162
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 81
+        width: 53
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_50
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_51
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 81
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 81
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 81
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_54
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 81
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 81
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_56
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 81
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_57
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 82
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_58
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 81
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_60
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_61
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_63
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 10
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_64
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: badGuy1_65
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
